@@ -1,1 +1,3 @@
-# dsci100
+# Testing GitHub for DSCI 100
+
+Project Creation Date: February 11, 2023
